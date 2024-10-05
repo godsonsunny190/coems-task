@@ -170,8 +170,8 @@ SERVICES SECTION STYLE
 
                 @include media-breakpoint-down(md) {
                     flex-direction: column;
+                    margin-bottom: 4rem;
                 }
-
 
                 .icons {
                     max-width: 13.4rem;
